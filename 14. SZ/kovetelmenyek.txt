@@ -1,1 +1,88 @@
+A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele
+
+Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat 
+végrehajtása legalább 51%-osra értékelhető.
+
+Modulok:
+
+	- Információtechnológiai alapok | gyakorlati
+
+	- Szakmai életpálya-építés, munkaszervezés, munkahelyi kommunikáció | gyakorlati és szóbeli
+
+	- Hálózatok, programozás és adatbázis-kezelés | gyakorlati, írásbeli (online teszt)
+
+	- Alkalmazás fejlesztés | gyakorlati
+
+	- Foglalkoztatás I. (érettségire épülő képzések esetén) | írásbeli
+	
+	- Foglalkoztatás II. | írásbeli
+
+	- Munkahelyi egészség és biztonság | írásbeli
+
+Gyakorlati vizsgatevékenység
+
+	(A)
+		A vizsgafeladat megnevezése: Komplex alkalmazás (szoftver) készítése
+
+		A vizsgafeladat ismertetése: A gyakorlati vizsgán a jelölt egy öszetett programozási feladatot old meg számítógépen, az
+		általa megismert szoftverfejlesztő eszközök felhasználásával.
+
+		A vizsgafeladat időtartama: 240 perc
+		A vizsgafeladat értékelési súlyaránya: 50%
+
+	(B)
+		A vizsgafeladat megnevezése: Záródolgozat elkészítése és bemutatása
+
+		A vizsgafeladat ismertetése: A jelölt záródolgozatként egy alkalmazói programot (szoftvert) és teljes fejlesztői- és
+		felhasználói tervdokumentációt készít. A vizsgán a jelölt bemutatja az általa készített záródolgozatot. A záródolgozatot
+		a vizsgabizottság a bemutatással együtt értékeli.	
+		
+		A vizsgafeladat időtartama: maximum 15 perc
+		A vizsgafeladat értékelési súlyaránya: 30%
+
+Szóbeli vizsgatevékenység
+
+	A vizsgafeladat megnevezése: Válaszadás a vizsgakövetelmények alapján összeállított, előre kiadott tételsorokból húzott kérdésekre
+	
+	A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsga kérdései a Modulok alatt megadott témaköröket tartalmazza.
+	
+	A vizsgafeladat időtartama: 25 perc (felkészülési idő 15 perc, válaszadási idő 10 perc)
+	A vizsgafeladat súlyaránya: 20%
+
+
+
+Záródolgozatra vonatkozó előírások:
+
+	A záródolgozatok tárgya komplex feladat, a szakmai irányultságnak megfelelően.
+	A záródolgozatnak tükröznie kell a választott probléma (kiinduló rendszer) összefüggéseit, kapcsolódásait.
+	Lehetőleg teljes képet kell adnia a kiindulási helyzetről, a megoldási lehetőségekről, és ismertetnie kell az
+	alkalmazott megoldás kiválasztásának a szempontjait is. Terjedelménél fogva nem kell minden részletet
+	tartalmaznia. A kidolgozást olyan mélységig kell elkészíteni, hogy az bemutassa a kitűzött feladat egy reális
+	megoldását.
+
+	A záródolgozatnak a következő fő részekből kell állnia:
+
+		1. Bevezető, a probléma rővid ismertetése
+		2. Felhasználói dokumentáció
+		3. Fejlesztői dokumentáció (rendszerterv, biztonsági kérdések, adatbázis, média-elemek, navigáció stb., ergonómia, tesztelés, stb.)
+		4. Összegzés
+
+	
+	A záródolgozat értékelési szempontjai:
+
+		- A megoldott feladat nehézsége, a hozzáadott önálló munka minősége
+		- A témában való tájékozottság, a szakirodalommal kapcsolatos ismeretek
+		- A szakdolgozat áttekinthetősége, formai és nyelvi igényessége
+		- A hallgató munkájáról kialakult vélemény
+		- A terjedelmi követelmények
+
+
+
+Gyakorlati vizsgatevékenység során a jelölt, a feladat kidolgozása közben saját jegyzeteit, a
+vonatkozó kézikönyveket, valamint az online és offline help rendszereket használhatja. A konkrét
+programozási feladatokat a képző- vagy vizsgaszervező intézmény állítja össze és vizsga elnöke előzetesen
+jóváhagyja. A jelöltnek a vizsgán minimum 10 feladatból kell véletlenszerűen (pl. húzással) választania.
+
+A záródolgozatokat, a komplex szakmai vizsgát megelőzően legalább 15 nappal az előzetes szakmai bírálattal
+együtt a vizsgabizottság elnökének rendelkezésére kell bocsátani.
 
