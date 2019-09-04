@@ -1,0 +1,2 @@
+# Bolyai
+Szoftverfejlesztő OKJ
