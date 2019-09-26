@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace DogaGyak
 {
-    class Mammal : Animal
+    class Mammal : Animal //Örökítés
     {
-        public Mammal(string n)
-        {
-            GetName = n;
-        }
+        public Mammal(string n) //
+        {                       // Konstruktor
+            GetName = n;        //
+        }                       //
 
         public void ShowName()
         {
