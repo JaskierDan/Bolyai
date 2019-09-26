@@ -10,7 +10,7 @@ namespace DogaGyak
     {
         static void Main(string[] args)
         {
-            Mammal m = new Mammal("Kutya");
+            Mammal m = new Mammal("Kutya"); //Példányosítás
             m.ShowName();
         }
     }
