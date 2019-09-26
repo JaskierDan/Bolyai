@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace DogaGyak
 {
-    abstract class Animal
+    abstract class Animal //az abstract jelölés azt jelzi, hogy ezt az osztályt nem fogjuk példányosítani, hanem csak örökíteni fogunk belőle
     {
-        private string name = null;
+        private string name = null; //attribútum
 
-        protected string GetName
+        protected string GetName //attribútum get-set metódusa
         {
             get { return name; }
             set { name = value; }
