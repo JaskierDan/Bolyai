@@ -18,7 +18,7 @@ namespace SecuritySystem
             {
                 conn.Open();
             }
-            catch(MySqlException ex)
+            catch (MySqlException ex)
             {
                 Console.WriteLine(ex.Message.ToString());
             }
@@ -31,7 +31,7 @@ namespace SecuritySystem
 
         public void CreateAccount(string name, string pwd)
         {
-            MySqlCommand cmd = new MySqlCommand("INSERT INTO users(id, username, password) values('NULL', '" + name + "', '" + pwd +"')", conn);
+            MySqlCommand cmd = new MySqlCommand("INSERT INTO users(id, username, password) values('NULL', '" + name + "', '" + pwd + "')", conn);
             try
             {
                 cmd.ExecuteNonQuery();
@@ -40,6 +40,30 @@ namespace SecuritySystem
             {
                 Console.WriteLine(ex.Message.ToString());
             }
+        }
+
+        public void CheckUser(string user, string pwd)
+        {
+            MySqlCommand cmd = new MySqlCommand("SELECT password FROM users WHERE username='" + user + "'", conn);
+            MySqlDataReader rd = cmd.ExecuteReader();
+            rd.Read();
+            if (rd.HasRows)
+            {
+                if (pwd == rd.GetString(0))
+                {
+                    Console.WriteLine("Successful login!");
+                }
+                else
+                {
+                    Console.WriteLine("Unsuccessful login!");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Wrong username!");
+
+            }
+            rd.Close();
         }
     }
 }
