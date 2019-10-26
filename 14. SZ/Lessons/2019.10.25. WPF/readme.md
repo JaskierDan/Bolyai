@@ -6,4 +6,5 @@ Készíts egy WPF alkalmazást adatbázissal együtt mely egy raktár készletei
 
 Ugyanolyan nevű árut mégegyszer ne tároljon el az adatbázis, csak az áru készletmennyiségét növelje a megadott készletszámmal.
 
-Adatbázis: raktar Tábla: aruk (id, aru, keszlet)
+Adatbázis: raktar 
+Tábla: aruk (id, aru, keszlet)
