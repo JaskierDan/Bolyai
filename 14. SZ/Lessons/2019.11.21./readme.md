@@ -1,0 +1,1 @@
+Szoftverfejlesztői gyakorlati vizsgafeladat példa.
