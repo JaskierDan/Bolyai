@@ -12,6 +12,9 @@ Ugyanolyan nevű árut mégegyszer ne
 tároljon el az adatbázis, csak az 
 áru készletmennyiségét növelje.
 
-Adatbázis: uzlet; 
-Tábla 1: reszlegek(id, nev);
-Tábla 2: keszletek(id, reszlegID, nev, keszlet);
+Adatbázis: uzlet
+
+Tábla 1: reszlegek(id, nev)
+
+Tábla 2: keszletek(id, reszlegID, nev, keszlet)
+
