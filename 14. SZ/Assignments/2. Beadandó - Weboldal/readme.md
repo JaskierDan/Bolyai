@@ -1,4 +1,4 @@
-1. Feladat (február 10-ig)
+```1. Feladat (február 10-ig)
  - Drótváz terv(Wireframe) elkészítése
 
 2. Feladat (február 20-ig)
@@ -6,3 +6,4 @@
   
 3. Feladat (február 29-ig)
  - Teljes weboldal leadása
+```
