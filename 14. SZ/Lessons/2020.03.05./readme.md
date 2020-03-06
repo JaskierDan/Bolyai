@@ -1,6 +1,6 @@
 # Dokumentációs feladatok
 
-- User Stories (Felhasználói történetek)
+- **User Stories** (Felhasználói történetek)
               <table>
                 <tr>
                   <th><b><i>User Types</i></b></th>
@@ -22,7 +22,7 @@
                 </tr>
               </table>
               
-- Use Cases (Használati esetek)
+- **Use Cases** (Használati esetek)
     ![usecases](usecase.png)
     ### Kapcsolatok
     * **association** (Az Actor és a Use Case-ek közötti kapcsolat.)
@@ -30,7 +30,7 @@
     * **extend** (A Use Case funkcionalitását bővíti de annak működéséhez nem szükséges.) child -> parent
     * **generalization** (általánosítás/öröklődés)
     
-- UML (Osztály-diagram)
+- **UML** (Osztály-diagram)
     ![uml](UML.png)
     ### Kapcsolatok
     * **association** (Egyszerű kapcsolat két osztály között. Egy fekete vonal jelöli.)
