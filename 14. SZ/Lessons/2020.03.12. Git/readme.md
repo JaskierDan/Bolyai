@@ -1,6 +1,6 @@
 # Git összefoglaló
 
-- **Lokális repository és remote repository**
+- **Lokális repository, remote repository és clone**
     ```
     git init
     ```
@@ -11,6 +11,12 @@
     git remote add <name> <url>
     ```
     > ***A remote repository(ami a felhőben van) beállítása***
+    
+    
+    ```
+    git clone <url>
+    ```
+    > ***Klónozza(letölti) a remote repository-t és ez már alapból inicializálva van és a remote repository is be van állítva
     
 - **status, add és commit**
     ```
