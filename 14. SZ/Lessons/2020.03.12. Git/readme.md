@@ -1,5 +1,7 @@
 # Git összefoglaló
 
+## A pontok sorrendben vannak, a parancsok egymásra épülnek
+
 - **Lokális repository, remote repository és clone**
     ```
     git init
