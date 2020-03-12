@@ -16,7 +16,7 @@
     ```
     git clone <url>
     ```
-    > ***Klónozza(letölti) a remote repository-t és ez már alapból inicializálva van és a remote repository is be van állítva***
+    > ***Klónozza(letölti) a remote repository-t, ez már alapból inicializálva van és a remote repository is be van állítva***
     
 - **status, add és commit**
     ```
