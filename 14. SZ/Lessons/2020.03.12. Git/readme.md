@@ -78,14 +78,20 @@
     
 ## Git használat bemutatása
 
-    ![1](1.gif)
-    
-    ![2](2.gif)
-    
-    ![3](3.gif)
-    
-    ![4](4.gif)
-    
-    ![5](5.gif)
-    
-    ![6](6.gif)
+- **Remote repository létrehozása**
+![1](1.gif)
+
+- **Local repository inicializálása**
+![2](2.gif)
+
+- **Remote és local repository összekötése**
+![3](3.gif)
+
+- **git status és git add**
+![4](4.gif)
+
+- **git commit és git push**
+![5](5.gif)
+
+- **Remote repository frissítve**
+![6](6.gif)
