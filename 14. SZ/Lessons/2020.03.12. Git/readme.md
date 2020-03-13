@@ -75,3 +75,17 @@
     git merge <name>
     ```
     > ***Összefésüli azt a branch-et amin állunk(általában a master branch) a megadott nevű branch-el***
+    
+## Git használat bemutatása
+
+    ![1](1.gif)
+    
+    ![2](2.gif)
+    
+    ![3](3.gif)
+    
+    ![4](4.gif)
+    
+    ![5](5.gif)
+    
+    ![6](6.gif)
