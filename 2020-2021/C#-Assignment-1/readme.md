@@ -6,7 +6,11 @@
 ## Feladat
 Készíts egy UML diagramot valamint egy konzolos applikációt egy raktár termékeinek kezeléséhez.
 
-Adatbázis: **id(primary key, auto increment és int), productName(tinytext), amount(int)**
+Adatbázis neve: **warehouse**
+
+Tábla neve: **products**
+
+Oszlopok: **id(primary key, auto increment és int), productName(tinytext), amount(int)**
 
 A programmal a felhasználó(Worker) tudjon új termékeket hozzáadni az adatbázishoz valamint lekérdezni az összes eddig hozzáadott termékeket.
 
