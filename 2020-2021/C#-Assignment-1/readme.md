@@ -8,7 +8,7 @@ Készíts egy UML diagramot valamint egy konzolos applikációt egy raktár term
 
 Adatbázis: **id(primary key, auto increment és int), productName(tinytext), amount(int)**
 
-A programmal a felhasználó(Worker) tudjon új termékeket hozzáadni az adatbázishoz valamint lekérdezni az összes eddig hozzáadott terméket.
+A programmal a felhasználó(Worker) tudjon új termékeket hozzáadni az adatbázishoz valamint lekérdezni az összes eddig hozzáadott termékeket.
 
 ## Pontozás
 * 1 pont - Adatbázis helyes létrehozása.
