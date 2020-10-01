@@ -1,5 +1,9 @@
 # Szoftverfejlesztő OKJ 2020/21
 
-## C# Házi feladatok
+## Szoftverfejlesztés házi feladatok
 
 * [C# alapok](https://forms.gle/KB4SzhfYxy2VNCYc8)
+
+## Webfejlesztés házi feladatok
+
+* [PHP alapok](https://forms.gle/My6y3nevr232w6dd6)
