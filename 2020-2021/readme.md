@@ -8,3 +8,4 @@
 ## Webfejlesztés házi feladatok
 
 * [PHP alapok](https://forms.gle/My6y3nevr232w6dd6)
+* [JavaScript alapok](https://forms.gle/jwprGA3aa55D2vHX9)
