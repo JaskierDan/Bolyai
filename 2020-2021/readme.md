@@ -3,6 +3,7 @@
 ## Szoftverfejlesztés házi feladatok
 
 * [C# alapok](https://forms.gle/KB4SzhfYxy2VNCYc8)
+* [C# konvenciók](https://forms.gle/NRz3tgrNUfh6oNbu8)
 
 ## Webfejlesztés házi feladatok
 
