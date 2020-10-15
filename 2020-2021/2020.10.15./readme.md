@@ -1,1 +1,1 @@
-# C# WPF gyakorlás, Adatbázis kapcsolatok
+# C# WPF gyakorlás, Adatbázis kapcsolatok 2.
