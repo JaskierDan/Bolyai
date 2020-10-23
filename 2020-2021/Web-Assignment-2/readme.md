@@ -35,7 +35,7 @@ Adatbázis neve: **feedback**
 
 ![mainpage](main.jpg)
 
-![dashboard](dash.jpg)
+![dashboard](dashboard.jpg)
 
 ## Pontozás
 
