@@ -1,4 +1,4 @@
-# Assignment 2. Határidő: 2020.10.31. éjfél
+# Assignment 2. | Határidő: 2020.10.31. éjfél
 **1 hét csúszással még be lehet adni hármasért.**
 
 ## Feladat
