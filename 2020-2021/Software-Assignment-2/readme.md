@@ -4,7 +4,7 @@
 ## Feladat
 
 Készíts egy alap könyv kölcsönző alkalmazást mely képes hozzáadni új könyveket és feljegyezni, hogy ki melyik könyvet kölcsönözte ki valamint ezt legyen képes
-felhasználó szerint kilistázni. Új könyvet és új kölcsönzést külön ablakban intézze a program.
+felhasználó szerint kilistázni. Új könyv hozzáadását és új kölcsönzés feljegyzését külön ablakokban intézze a program.
 
 Adatbázis neve: **library**
 
