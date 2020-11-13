@@ -1,1 +1,0 @@
-# PHP alapok és adatbáziskezelés
