@@ -1,1 +1,0 @@
-# Öröklődések és diagrammok használata
