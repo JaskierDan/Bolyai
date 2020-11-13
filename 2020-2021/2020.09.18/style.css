@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: black;
+}
+.box{
+    width: 300px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background:#17202A;
+    text-align: center;
+}
+.box h1{
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.box input[type = "button"]{
+    background: none;
+    display: block;
+    border: 0px;
+    margin: 20px auto;
+    text-align: center;
+    outline: none;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.box input[type = "button"]:hover{
+    color: #01FF87;
+}
+.box h1:hover{
+    color: #01FF87;
+}
+.box input[type = "text"],.box input[type = "password"]{
+    border:0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #3792cb;
+    padding: 15px 12px;
+    width: 200px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.2s;
+}
+.box input[type = "text"]:focus,.box input[type = "password"]:focus{
+    width: 280px;
+    border-color: #01FF87;
+}
+.box input[type = "text"]:hover,.box input[type = "password"]:hover{
+    width: 280px;
+    border-color: #01FF87;
+}
+.box input[type = "submit"]{
+    border:0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #01FF87;
+    padding: 15px 42px;
+    width: 200px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.2s;
+    cursor: pointer;
+}
+.box input[type = "submit"]:hover{
+   background: #01FF87; 
+}
