@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfGyak3.NewSpecies"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfGyak3"
+        mc:Ignorable="d"
+        Title="Új faj hozzáadása" Height="204" Width="389" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="Név:" HorizontalAlignment="Left" Margin="94,59,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="species" HorizontalAlignment="Left" Height="26" Margin="151,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Hozzáadás" HorizontalAlignment="Left" Margin="94,102,0,0" VerticalAlignment="Top" Width="177" Click="Button_Click"/>
+
+    </Grid>
+</Window>

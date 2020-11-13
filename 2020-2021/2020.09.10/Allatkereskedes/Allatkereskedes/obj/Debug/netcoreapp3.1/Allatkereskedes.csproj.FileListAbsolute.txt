@@ -1,0 +1,11 @@
+C:\Users\Work\Desktop\Allatkereskedes\Allatkereskedes\bin\Debug\netcoreapp3.1\Allatkereskedes.exe
+C:\Users\Work\Desktop\Allatkereskedes\Allatkereskedes\bin\Debug\netcoreapp3.1\Allatkereskedes.deps.json
+C:\Users\Work\Desktop\Allatkereskedes\Allatkereskedes\bin\Debug\netcoreapp3.1\Allatkereskedes.runtimeconfig.json
+C:\Users\Work\Desktop\Allatkereskedes\Allatkereskedes\bin\Debug\netcoreapp3.1\Allatkereskedes.runtimeconfig.dev.json
+C:\Users\Work\Desktop\Allatkereskedes\Allatkereskedes\bin\Debug\netcoreapp3.1\Allatkereskedes.dll
+C:\Users\Work\Desktop\Allatkereskedes\Allatkereskedes\bin\Debug\netcoreapp3.1\Allatkereskedes.pdb
+C:\Users\Work\Desktop\Allatkereskedes\Allatkereskedes\obj\Debug\netcoreapp3.1\Allatkereskedes.csprojAssemblyReference.cache
+C:\Users\Work\Desktop\Allatkereskedes\Allatkereskedes\obj\Debug\netcoreapp3.1\Allatkereskedes.AssemblyInfoInputs.cache
+C:\Users\Work\Desktop\Allatkereskedes\Allatkereskedes\obj\Debug\netcoreapp3.1\Allatkereskedes.AssemblyInfo.cs
+C:\Users\Work\Desktop\Allatkereskedes\Allatkereskedes\obj\Debug\netcoreapp3.1\Allatkereskedes.dll
+C:\Users\Work\Desktop\Allatkereskedes\Allatkereskedes\obj\Debug\netcoreapp3.1\Allatkereskedes.pdb

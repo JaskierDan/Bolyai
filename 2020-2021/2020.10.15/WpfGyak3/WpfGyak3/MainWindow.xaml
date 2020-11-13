@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfGyak3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfGyak3"
+        mc:Ignorable="d"
+        Title="Zoo Manager" Height="249" Width="602" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button Content="Új állat hozzáadása" HorizontalAlignment="Left" Margin="369,53,0,0" VerticalAlignment="Top" Width="131" Click="Button_Click_1"/>
+        <Button Content="Állat adatainak törlése" HorizontalAlignment="Left" Margin="369,133,0,0" VerticalAlignment="Top" Width="131" Click="Button_Click_2"/>
+        <ListBox x:Name="lb" HorizontalAlignment="Left" Height="100" Margin="97,53,0,0" VerticalAlignment="Top" Width="219"/>
+        <Button Content="Új faj hozzáadása" HorizontalAlignment="Left" Margin="369,93,0,0" VerticalAlignment="Top" Width="131" Click="Button_Click"/>
+
+    </Grid>
+</Window>

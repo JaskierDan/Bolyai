@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfGyak2.NewStudent"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfGyak2"
+        mc:Ignorable="d"
+        Title="NewStudent" Height="260" Width="446" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="Tanuló:" HorizontalAlignment="Left" Margin="115,76,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="Student" HorizontalAlignment="Left" Height="26" Margin="181,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="Add_Student" Content="Új diák hozzáadása" HorizontalAlignment="Left" Margin="115,116,0,0" VerticalAlignment="Top" Width="186" Click="Add_Student_Click"/>
+
+    </Grid>
+</Window>

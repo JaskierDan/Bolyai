@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfGyak2.NewSubject"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfGyak2"
+        mc:Ignorable="d"
+        Title="NewSubject" Height="277" Width="554" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <TextBox x:Name="Subject" HorizontalAlignment="Left" Height="23" Margin="261,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Subject:" HorizontalAlignment="Left" Margin="178,87,0,0" VerticalAlignment="Top" Height="23" RenderTransformOrigin="0.5,0.5" Width="64">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Button x:Name="Add" Content="Új tárgy hozzáadása" HorizontalAlignment="Left" Margin="178,139,0,0" VerticalAlignment="Top" Width="203" Click="Add_Click"/>
+
+    </Grid>
+</Window>

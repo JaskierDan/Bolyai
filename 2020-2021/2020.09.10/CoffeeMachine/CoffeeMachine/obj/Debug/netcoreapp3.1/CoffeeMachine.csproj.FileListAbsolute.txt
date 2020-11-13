@@ -1,0 +1,11 @@
+C:\Users\Work\Desktop\CoffeeMachine\CoffeeMachine\bin\Debug\netcoreapp3.1\CoffeeMachine.exe
+C:\Users\Work\Desktop\CoffeeMachine\CoffeeMachine\bin\Debug\netcoreapp3.1\CoffeeMachine.deps.json
+C:\Users\Work\Desktop\CoffeeMachine\CoffeeMachine\bin\Debug\netcoreapp3.1\CoffeeMachine.runtimeconfig.json
+C:\Users\Work\Desktop\CoffeeMachine\CoffeeMachine\bin\Debug\netcoreapp3.1\CoffeeMachine.runtimeconfig.dev.json
+C:\Users\Work\Desktop\CoffeeMachine\CoffeeMachine\bin\Debug\netcoreapp3.1\CoffeeMachine.dll
+C:\Users\Work\Desktop\CoffeeMachine\CoffeeMachine\bin\Debug\netcoreapp3.1\CoffeeMachine.pdb
+C:\Users\Work\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.csprojAssemblyReference.cache
+C:\Users\Work\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.AssemblyInfoInputs.cache
+C:\Users\Work\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.AssemblyInfo.cs
+C:\Users\Work\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.dll
+C:\Users\Work\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.pdb
