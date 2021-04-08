@@ -1,4 +1,4 @@
-# Vizsga feladatok
+# Vizsgafeladatok
  
 ## Morze
 [Teljes megoldás](VizsgaGyakTeljesMegoldás.rar)
