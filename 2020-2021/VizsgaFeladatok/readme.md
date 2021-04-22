@@ -8,3 +8,7 @@
 
 [Teljes megoldás](VizsgaGyak2.rar)
 
+## Balkezesek
+[Feladat](http://infojegyzet.hu/vizsgafeladatok/okj-programozas/szoftverfejleszto-200204/)
+
+[Teljes megoldás](VizsgaGyak3.rar)
